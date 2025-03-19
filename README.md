@@ -25,7 +25,7 @@ Navigation aids, such as buoys and lighthouses, play a crucial role in ensuring 
 - Monitor marine environmental conditions (temperature, seismic activity, tsunami detection).
 - Develop a scalable and adaptable system for future expansion and commercialization.
 
-![System Overview](Fig1.jpg)
+[![System Overview](Fig1.jpg)](https://github.com/ilyosbek97/Smart-navigational-aid-monitoring/blob/main/docs/1.jpg)
 
 ---
 
@@ -47,7 +47,8 @@ Navigation aids, such as buoys and lighthouses, play a crucial role in ensuring 
 
 ## 4. Expected Outcomes & Impact
 ### Benefits
-![Expected Benefits](Fig2.jpg)
+[![Expected Benefits](Fig2.jpg)](https://github.com/ilyosbek97/Smart-navigational-aid-monitoring/blob/main/docs/2.jpg)
+
 - **Enhanced maritime safety**: Real-time damage detection reduces the risk of accidents caused by malfunctioning navigation aids.
 - **Cost-effective maintenance**: Early detection of issues minimizes repair costs.
 - **Multi-purpose functionality**: Additional environmental monitoring benefits marine research and disaster prevention.
